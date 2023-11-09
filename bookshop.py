@@ -14,6 +14,9 @@ class BookShop():
 
     def method4(self, orders):
         pass
-
+    
     def method5(self, orders):
+        pass
+
+    def method6(self, orders):
         pass
