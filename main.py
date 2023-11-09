@@ -16,4 +16,7 @@ def main():
     
     print(minList)
 
+    maxList = shop.method3(totalPrices)
+
+    print(maxList)
 main()
