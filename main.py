@@ -17,5 +17,3 @@ def main():
     print(minList)
 
 main()
-
-#BIG OL BOOBS
